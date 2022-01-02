@@ -1,0 +1,16 @@
+{
+  "name": "userman",
+  "version": "1.0.0",
+  "description": "a simple user manager",
+  "title": "userman: a simple user manager",
+  "url": "http://localhost:8080",
+  "sampleUrl": false,
+  "defaultVersion": "0.0.0",
+  "apidoc": "0.3.0",
+  "generator": {
+    "name": "apidoc",
+    "time": "2021-10-31T12:56:16.515Z",
+    "url": "http://apidocjs.com",
+    "version": "0.17.7"
+  }
+}
